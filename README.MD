@@ -14,13 +14,19 @@
 *******
 
 ## ✔️ Técnicas e tecnologias utilizadas
+###Back End
+  - ``Go 1.21.5``
+  - ``IDE Goland - JetBrains``
+  - ``GORM``
+  - ``Framework Echo``
+  - ``JWT``
+  - ``MySql``
 
-- ``Go 1.21.5``
-- ``IDE Goland - JetBrains``
-- ``GORM``
-- ``Framework Echo``
-- ``JWT``
-- ``MySql``
+###Front End
+  - ``Typescript``
+  - ``Angular 16.0.4``
+  - ``Bootstrap 5.2``
+  - ``Vscode``
 
 # 🔨 Funcionalidades do projeto
 
