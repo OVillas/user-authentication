@@ -14,7 +14,7 @@
 *******
 
 ## ✔️ Técnicas e tecnologias utilizadas
-###Back End
+##Back End
   - ``Go 1.21.5``
   - ``IDE Goland - JetBrains``
   - ``GORM``
@@ -22,7 +22,7 @@
   - ``JWT``
   - ``MySql``
 
-###Front End
+##Front End
   - ``Typescript``
   - ``Angular 16.0.4``
   - ``Bootstrap 5.2``
